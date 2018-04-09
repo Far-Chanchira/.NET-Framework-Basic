@@ -1,0 +1,7 @@
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\bin\Debug\BasicPart1.exe.config
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\bin\Debug\BasicPart1.exe
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\bin\Debug\BasicPart1.pdb
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\obj\Debug\BasicPart1.csprojResolveAssemblyReference.cache
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\obj\Debug\BasicPart1.csproj.CoreCompileInputs.cache
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\obj\Debug\BasicPart1.exe
+C:\Users\FAR\Desktop\Basic\BasicPart1\BasicPart1\obj\Debug\BasicPart1.pdb
